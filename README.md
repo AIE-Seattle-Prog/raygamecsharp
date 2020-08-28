@@ -22,7 +22,7 @@ instructions in the [Building](#building) section below.
 Once you've got it working, check out the bindings file from Raylib-cs to learn
 about the C# API for Raylib or browse the example projects rewritten in C#.
 
-**raylib links** - [website][raylib] / [discord][rl-discord] / [reddit][rl-reddit] / [raylib repo][rl-repo] / [c\# bindings repo][rl-cs-bindings], [api reference][rl-cs-bindings], [examples][rl-cs-examples]
+**raylib links** - [website][rl-website] / [discord][rl-discord] / [reddit][rl-reddit] / [raylib repo][rl-repo] / [c\# bindings repo][rl-cs-bindings], [api reference][rl-cs-bindings], [examples][rl-cs-examples]
 
 [rl-website]:https://www.raylib.com/
 [rl-discord]:https://discord.gg/VkzNHUE
