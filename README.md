@@ -13,9 +13,27 @@ the Seattle Campus of the Academy of Interactive Entertainment.
 [raylib]:https://github.com/raysan5/raylib
 [raysan]:https://github.com/raysan5
 
+## Getting Started
+
+To get started with this sample project, click the _Use this template_ button
+up top to copy this repository to your own account. Then, follow the
+instructions in the [Building](#building) section below.
+
+Once you've got it working, check out the bindings file from Raylib-cs to learn
+about the C# API for Raylib or browse the example projects rewritten in C#.
+
+**raylib links** - [website][raylib] / [discord][rl-discord] / [reddit][rl-reddit] / [raylib repo][rl-repo] / [c\# bindings repo][rl-cs-bindings], [api reference][rl-cs-bindings], [examples][basicexample]
+
+[rl-website]:https://www.raylib.com/
+[rl-discord]:https://discord.gg/VkzNHUE
+[rl-reddit]:https://www.reddit.com/r/raylib/
+[rl-repo]:https://github.com/raysan5/raylib
+[rl-cs-bindings]:https://github.com/ChrisDill/Raylib-cs
+[rl-cs-bindings-ref]:https://github.com/ChrisDill/Raylib-cs/blob/master/Raylib-cs/Raylib.cs
+
 ## Building
 
-This project supports by **Visual Studio 2019** or newer.
+Building this project requires **Visual Studio 2019** or newer.
 
 > This is written against .NET Core 3.1 and primarily supports Windows.
 > Adjustments may be needed for other platforms.
@@ -27,15 +45,14 @@ test this, build and run the provided sample project.
 ![A screenshot of the included sample project](.github/raygame.png)
 
 The sample project that is provided is the [basic window example][basicexample]
-from raylib. Further examples can be found in its [repository][rayexample].
+from raylib-cs. Further examples can be found in its [repository][rayexample].
 
 A full list of all methods and types made available via the [binding can be
-found in the Raylib-cs repository][raylib-cs-bindings].
+found in the Raylib-cs repository][rl-cs-bindings].
 
 [basicexample]:https://github.com/ChrisDill/Raylib-cs-Examples/blob/master/Examples/core/core_basic_window.cs
 [rayexample]:https://github.com/ChrisDill/Raylib-cs-Examples
 [raylib-cs]:https://github.com/ChrisDill/Raylib-cs
-[raylib-cs-bindings]:https://github.com/ChrisDill/Raylib-cs/blob/master/Raylib-cs/Raylib.cs
 
 ## License
 
