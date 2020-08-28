@@ -4,7 +4,7 @@ This is a sample C# project setup with [raylib][raylib] for Visual Studio.
 Raylib is a simple game programming framework that is designed to be friendly to
 beginners. It is created by [Ramon Santamaria (@raysan5)][raysan].
 
-The language binding is maintained at [ChrisDill/Raylib-cs][raylib-cs] and
+The language binding is maintained at [ChrisDill/Raylib-cs][rl-cs-bindings] and
 is compatible with Raylib 3.0.
 
 It is primarily intended for use by students in the Game Programming course at
@@ -22,7 +22,7 @@ instructions in the [Building](#building) section below.
 Once you've got it working, check out the bindings file from Raylib-cs to learn
 about the C# API for Raylib or browse the example projects rewritten in C#.
 
-**raylib links** - [website][raylib] / [discord][rl-discord] / [reddit][rl-reddit] / [raylib repo][rl-repo] / [c\# bindings repo][rl-cs-bindings], [api reference][rl-cs-bindings], [examples][basicexample]
+**raylib links** - [website][raylib] / [discord][rl-discord] / [reddit][rl-reddit] / [raylib repo][rl-repo] / [c\# bindings repo][rl-cs-bindings], [api reference][rl-cs-bindings], [examples][rl-cs-examples]
 
 [rl-website]:https://www.raylib.com/
 [rl-discord]:https://discord.gg/VkzNHUE
@@ -30,6 +30,7 @@ about the C# API for Raylib or browse the example projects rewritten in C#.
 [rl-repo]:https://github.com/raysan5/raylib
 [rl-cs-bindings]:https://github.com/ChrisDill/Raylib-cs
 [rl-cs-bindings-ref]:https://github.com/ChrisDill/Raylib-cs/blob/master/Raylib-cs/Raylib.cs
+[rl-cs-examples]:https://github.com/ChrisDill/Raylib-cs-Examples
 
 ## Building
 
@@ -45,14 +46,12 @@ test this, build and run the provided sample project.
 ![A screenshot of the included sample project](.github/raygame.png)
 
 The sample project that is provided is the [basic window example][basicexample]
-from raylib-cs. Further examples can be found in its [repository][rayexample].
+from raylib-cs. Further examples can be found in its [repository][rl-cs-examples].
 
 A full list of all methods and types made available via the [binding can be
-found in the Raylib-cs repository][rl-cs-bindings].
+found in the Raylib-cs repository][rl-cs-bindings-ref].
 
 [basicexample]:https://github.com/ChrisDill/Raylib-cs-Examples/blob/master/Examples/core/core_basic_window.cs
-[rayexample]:https://github.com/ChrisDill/Raylib-cs-Examples
-[raylib-cs]:https://github.com/ChrisDill/Raylib-cs
 
 ## License
 
