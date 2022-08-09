@@ -5,7 +5,7 @@ Raylib is a simple game programming framework that is designed to be friendly to
 beginners. It is created by [Ramon Santamaria (@raysan5)][raysan].
 
 The language binding is maintained at [ChrisDill/Raylib-cs][rl-cs-bindings] and
-is compatible with Raylib 3.0.
+is compatible with Raylib 4.0.
 
 It is primarily intended for use by students in the Game Programming course at
 the Seattle Campus of the Academy of Interactive Entertainment.
@@ -19,8 +19,9 @@ To get started with this sample project, click the _Use this template_ button
 up top to copy this repository to your own account. Then, follow the
 instructions in the [Building](#building) section below.
 
-Once you've got it working, check out the bindings file from Raylib-cs to learn
-about the C# API for Raylib or browse the example projects rewritten in C#.
+Once you've got it working, check out its [bindings file][rl-cs-bindings-ref] to
+learn about the C# API for Raylib or browse the [example projects rewritten in
+C#][rl-cs-examples].
 
 **raylib links** - [website][rl-website] / [discord][rl-discord] / [reddit][rl-reddit] / [raylib repo][rl-repo] / [c\# bindings repo][rl-cs-bindings], [api reference][rl-cs-bindings-ref], [examples][rl-cs-examples]
 

@@ -36,7 +36,7 @@ via C# methods.
 It is maintained at [ChrisDill/Raylib-cs](https://github.com/ChrisDill/Raylib-cs).
 
 ```text
-Copyright (C) 2020 ChrisDill
+Copyright (C) 2018-2021 ChrisDill
 
 This software is provided 'as-is', without any express or implied
 warranty.  In no event will the authors be held liable for any damages
