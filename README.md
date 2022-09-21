@@ -1,11 +1,11 @@
 # raygamecsharp - sample project
 
-This is a sample C# project setup with [raylib][raylib] for Visual Studio.
+This is a sample C# project setup with [raylib-cs][rl-repo] for Visual Studio.
 Raylib is a simple game programming framework that is designed to be friendly to
 beginners. It is created by [Ramon Santamaria (@raysan5)][raysan].
 
-The language binding is maintained at [ChrisDill/Raylib-cs][rl-cs-bindings] and
-is compatible with Raylib 4.0.
+The language binding is maintained at [ChrisDill/Raylib-cs][rl-repo] and is
+compatible with Raylib 4.0.
 
 It is primarily intended for use by students in the Game Programming course at
 the Seattle Campus of the Academy of Interactive Entertainment.
@@ -20,8 +20,8 @@ up top to copy this repository to your own account. Then, follow the
 instructions in the [Building](#building) section below.
 
 Once you've got it working, check out its [bindings file][rl-cs-bindings-ref] to
-learn about the C# API for Raylib or browse the [example projects rewritten in
-C#][rl-cs-examples].
+learn about the C# API for Raylib or browse the example projects
+[rewritten in C#][rl-cs-examples].
 
 **raylib links** - [website][rl-website] / [discord][rl-discord] / [reddit][rl-reddit] / [raylib repo][rl-repo] / [c\# bindings repo][rl-cs-bindings], [api reference][rl-cs-bindings-ref], [examples][rl-cs-examples]
 
@@ -35,9 +35,9 @@ C#][rl-cs-examples].
 
 ## Building
 
-Building this project requires **Visual Studio 2019** or newer.
+Building this project requires **Visual Studio 2022** or newer.
 
-> This is written against .NET Core 3.1 and primarily supports Windows.
+> This is written against .NET Core 6.0 and primarily supports Windows.
 > Adjustments may be needed for other platforms.
 
 Clone the repository and open the solution in Visual Studio. Both the solution
@@ -56,7 +56,7 @@ found in the Raylib-cs repository][rl-cs-bindings-ref].
 
 ## License
 
-MIT License - Copyright (c) 2019-2020 Academy of Interactive Entertainment
+MIT License - Copyright (c) 2019-2022 Academy of Interactive Entertainment
 
 For more information, see the [license][lic] file.
 
